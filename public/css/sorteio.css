@@ -1,0 +1,20 @@
+.sorteado {
+	background-color: #ff00ff;
+}
+
+.celula {
+	text-align: center;
+}
+
+.titulo {
+	text-align: center;
+}
+
+.form {
+	top: 3rem;
+	right: 3rem;
+}
+
+.celula-center {
+	text-align: center;
+}

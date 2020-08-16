@@ -1,0 +1,19 @@
+{
+	"name": "Sorteio",
+	"description": "Sorteio explicae",
+	"authors": [
+		{
+			"name": "Vinicius",
+			"email": "cvmm321@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"sorteio\\": "src/"
+		}
+	},
+	"require": {
+		"ext-json": "*",
+		"ext-curl": "*"
+	}
+}
