@@ -10,8 +10,7 @@ include_once "src/view/menu.php";
 	<div class="row">
 		<div class="col-sm-3"></div>
 		<div class="col-sm-6">
-			<table border="1"
-				   width="500" class="table table-striped" style="width: 40rem">
+			<table border="1" class="table table-striped">
 				<?php
 				/** @var string $sTabela */
 				echo $sTabela;
